@@ -6,6 +6,9 @@ export const personalInfo = {
   email: "sudhirraj983525@gmail.com",
   github: "https://github.com/Sudhirraj2026",
   linkedin: "https://www.linkedin.com/in/sudhir-kumar-962060371/",
+  twitter: "https://x.com/Sudhir_AI1",
+  instagram: "https://www.instagram.com/kali_linux.1m?vrfl=ejNwZHZoeTNjZGZ3",
+  facebook: "https://www.facebook.com/PUBLICCMD",
   resumeUrl: "/Sudhir_Kumar_resume.pdf",
   bio: "Passionate Full Stack Developer and 3rd-year Computer Science undergraduate with hands-on experience in modern web applications, distributed socket networking, and Java systems software. Driven by problem-solving, clean architecture, and continuous learning.",
   stats: [
